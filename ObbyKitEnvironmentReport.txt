@@ -1,0 +1,18 @@
+ObbyKit hazards & environment — scene 'Assets/Scenes/SampleScene.unity'
+Backup: Assets/Scenes/SampleScene_BeforeEnvironment 2.unity
+Materials created in Assets/ObbyKit/Environment/Materials
+Course bounds (-9.9, -0.2, -0.2) → (148.9, 26.6, 188.7)
+Laser 1: across 'spring_pad_blue (5)' at (4.2, 5.4, 39.7), 7.9 m long, 0.6 m above the spring.
+Laser 2: across 'spring_pad_blue (4)' at (4.2, 5.4, 54.4), 7.9 m long, 0.6 m above the spring.
+Laser 3: across 'spring_pad_blue (3)' at (4.2, 5.4, 68.7), 7.9 m long, 0.6 m above the spring.
+Spinning Beam 1: on 'Cylinder (3)' at (4.2, 6.2, 118.7), 1 arm(s), 85°/s, reach 5.0 m.
+Spinning Beam 2: on 'Cylinder (4)' at (4.2, 6.2, 132.9), 2 arm(s), -100°/s, reach 5.0 m.
+Spinning Beam 3: on 'Cylinder (5)' at (4.2, 6.2, 146.8), 1 arm(s), 130°/s, reach 5.0 m.
+Ocean: 3 km × 3 km animated water at y = 0.6.
+Foam rings: 17 (around pillars, springs and posts standing in the water).
+Islands: 10 low-poly tropical islands 430–820 m out.
+Clouds: 26 puffy clouds drifting slowly around the course.
+Sun: warm white, intensity 2.2, soft shadows.
+Sky: cartoon gradient with sun and clouds. Ambient: sky/horizon/ground colours. Fog: soft horizon haze 170–1150 m.
+Post-processing: neutral tonemapping, bloom (makes the lasers glow), +18 saturation, soft vignette.
+VoidZone moved: respawn now triggers at y = -0.1, just under the water surface.

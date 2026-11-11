@@ -1,0 +1,6 @@
+ObbyKit character builder — scene 'Assets/Scenes/SampleScene.unity'
+Template player 'Player', feet at (7.5, 5.2, 4.0), camera 'Main Camera'.
+Created 11 animation clips and Animator Controller 'ObbyRunner'.
+Player prefab saved to Assets/ObbyKit/Character/ObbyPlayer.prefab. hangOffset 2.76.
+Old player 'Player' deactivated (not deleted). New camera 'Third Person Camera' added.
+Preview: C:\Users\768196\My project (9)\ObbyKitCharacterPreview.png — rows: Idle, Walk, Run, Sprint, Jump, Fall, WallRunLeft, WallRunRight, HangIdle, HangForward, DoubleJumpFlip; columns 1-4 = moments through the loop (3/4 view), column 5 = side view.

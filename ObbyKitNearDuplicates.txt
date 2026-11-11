@@ -1,0 +1,3 @@
+Near-duplicates in 'Assets/Scenes/SampleScene.unity' (same name + position, but not identical):
+
+0 near-duplicate pairs.

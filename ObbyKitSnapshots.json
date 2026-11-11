@@ -1,0 +1,4 @@
+{"views":[
+ {"name":"L1_lasers","pos":[12,7.8,49.5],"look":[4,6,54.4],"fov":55,"width":960,"height":540},
+ {"name":"L1_approach","pos":[4.6,8.6,29],"look":[4.2,5.8,42],"fov":60,"width":960,"height":540}
+]}

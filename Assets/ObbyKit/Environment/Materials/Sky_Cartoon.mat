@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sky_Cartoon
+  m_Shader: {fileID: 4800000, guid: 11135d2b21f5cf24aa4efde5f9c56025, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _CloudCover: 0.42
+    - _CloudScale: 1.6
+    - _CloudSoftness: 0.03
+    - _CloudSpeed: 0.006
+    - _GradientPower: 0.55
+    - _SunGlow: 0.6
+    - _SunSize: 0.012
+    m_Colors:
+    - _BelowColor: {r: 0.41999996, g: 0.76, b: 0.92, a: 1}
+    - _CloudColor: {r: 1, g: 1, b: 1, a: 1}
+    - _CloudShade: {r: 0.74, g: 0.8399999, b: 0.96999997, a: 1}
+    - _HorizonColor: {r: 0.68, g: 0.89, b: 1, a: 1}
+    - _SunColor: {r: 1, g: 0.95, b: 0.72, a: 1}
+    - _TopColor: {r: 0.19999996, g: 0.52, b: 0.96, a: 1}
+  m_BuildTextureStacks: []

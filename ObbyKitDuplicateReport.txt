@@ -1,0 +1,11 @@
+ObbyKit duplicate removal — scene 'Assets/Scenes/SampleScene.unity'
+Backup saved as Assets/Scenes/SampleScene_BeforeDuplicateRemoval.unity
+Light 'Directional Light': intensity 2 → 4 (combined from 2 stacked copies).
+Deleted 42 duplicate objects in total:
+  BeamPivot: 4
+  Cylinder: 25
+  Directional Light: 1
+  flag_C_red: 5
+  Global Volume: 1
+  platform_6x6x4_green: 6
+Top-level objects before: 208, after: 166.

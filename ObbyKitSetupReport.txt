@@ -1,0 +1,24 @@
+ObbyKit setup — scene 'Assets/Scenes/SampleScene.unity'
+Layers: Wall=8, MonkeyBar=9, Player=10
+Player: kept 'Player', PlayerMovement disabled, PlayerController added, camera = Main Camera. CharacterController height 2, center (0.00, 0.00, 0.00).
+Animator found on 'Player' (controller 'AC_Player'), so PlayerAnimationController was added. Parameters: 
+Flags: 10 objects at 5 locations.
+  Checkpoint 0: flag at (4.2, 5.6, 94.0), spawn (4.2, 5.8, 95.5), Level 2, 2 renderers recoloured.
+  Checkpoint 1: flag at (5.5, 5.6, 172.0), spawn (7.0, 5.8, 172.0), Level 3, 2 renderers recoloured.
+  Checkpoint 2: flag at (129.7, 5.6, 172.0), spawn (129.6, 5.8, 170.5), Level 4, 2 renderers recoloured.
+  Checkpoint 3: flag at (126.5, 5.6, 88.9), spawn (126.5, 5.8, 87.4), Level 5, 2 renderers recoloured.
+  Checkpoint 4: flag at (126.4, 5.6, 14.0), spawn (126.3, 5.8, 12.5), Level 6, 2 renderers recoloured.
+Monkey bars: 26 rung objects, trigger center (127.2, 15.5, 53.3) size (12.3, 1.7, 42.3), hangOffset 1.81.
+    floor 0m beyond end A (127.2, 15.5, 32.4): none
+    floor 2m beyond end A (127.2, 15.5, 30.4): y=5.56 (bar is 9.97 m above it)
+    floor 4m beyond end A (127.2, 15.5, 28.4): y=5.56 (bar is 9.97 m above it)
+    floor 0m beyond end B (127.2, 15.5, 74.1): y=5.52 (bar is 10.00 m above it)
+    floor 2m beyond end B (127.2, 15.5, 76.1): y=8.70 (bar is 6.83 m above it)
+    floor 4m beyond end B (127.2, 15.5, 78.1): y=7.68 (bar is 7.84 m above it)
+Walls: 12 objects at 5 locations put on the Wall layer, 0 MeshColliders added.
+    wall at (33.4, 8.1, 180.9) size (19.0, 9.5, 4.8)
+    wall at (65.5, 8.1, 180.9) size (19.0, 9.5, 4.8)
+    wall at (97.3, 8.1, 180.9) size (19.0, 9.5, 4.8)
+    wall at (48.1, 8.1, 163.4) size (19.0, 9.5, 4.8)
+    wall at (80.5, 8.1, 163.4) size (19.0, 9.5, 4.8)
+VoidZone: course bounds (-9.9, -0.2, -0.2) → (148.9, 26.6, 188.7). Kill height y=-3.18.
